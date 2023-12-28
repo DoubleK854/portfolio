@@ -5,13 +5,13 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://nevillionaire.github.io/portfolio)
+[Live Demo Link](https://doublek854.github.io/portfolio/)
 
 
 ## Authors
 
-- [@Github](https://github.com/nevillionaire)
-- [@Twitter](https://twitter.com/nevillionaire)
+- [@Github](https://github.com/doublek854)
+- [@Twitter](https://twitter.com/doublek854)
 
 ## 🤝 Contributing
 
